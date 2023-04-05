@@ -117,7 +117,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
-            <a href="http://mxnf.tk/9.9.jpg">点我领取授权码</a>
+            <a href="https://h5.clewm.net/?url=qr61.cn%2Fo3omsx%2FqllQpVN&hasredirect=1">点我领取授权码</a>
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
