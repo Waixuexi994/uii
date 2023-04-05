@@ -77,7 +77,7 @@ const cn = {
     },
     SendKey: "发送键",
     Theme: "主题",
-    TightBorder: "紧凑边框",
+    TightBorder: "进群获取最新APP",
     SendPreviewBubble: "发送预览气泡",
     Prompt: {
       Disable: {
@@ -113,7 +113,7 @@ const cn = {
     },
     AccessCode: {
       Title: "授权码",
-      SubTitle: "现在是未授权访问状态",
+      SubTitle: "进群获取授权码",
       Placeholder: "请输入授权码",
     },
     Model: "模型 (model)",
