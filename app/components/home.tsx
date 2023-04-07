@@ -117,7 +117,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
-            <a href="https://mp.weixin.qq.com/s/UDIFANvllenylF189muMQw">微信公众号：书虫创客，领取key</a>
+            <a href="https://mp.weixin.qq.com/s/UDIFANvllenylF189muMQw">微信公众号：书虫创客  ,领取key</a>
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
